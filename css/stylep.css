@@ -1,0 +1,17 @@
+.container{
+	padding: 20px;
+	float: left;
+}
+.gallery a{
+	text-decoration: none;
+	padding: 5px;
+	float: left;
+	width: 20%;
+}
+.gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .3s;
+}
