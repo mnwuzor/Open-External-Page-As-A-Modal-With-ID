@@ -29,6 +29,10 @@ Now when the **#viewFiltered** is triggered, it caused the modal to load the pag
 ![image](https://github.com/user-attachments/assets/765ef3a4-dda1-4732-87e2-5d6ceb6420f3)
 
 To see this in action, kindly watch this YouTube video
+
+[![Open External Page As A Modal With ID](https://img.youtube.com/vi/3tAXA2Bc2zU/0.jpg)](https://www.youtube.com/watch?v=3tAXA2Bc2zU)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3tAXA2Bc2zU?si=A6rjI8-0zyGQR2fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 https://youtu.be/3tAXA2Bc2zU
 
 Enjoy!!!
