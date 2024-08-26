@@ -4,6 +4,7 @@
 ![image](https://github.com/user-attachments/assets/b0ea80ec-2ff4-487b-bc3c-be3c4b45b41a)
 
 The image above shows the table with rows of records. On the right is the button, when clicked will show **View Participants**. Now when you click on the **View Participants** it will load the pooup modal as seen below.
+![image](https://github.com/user-attachments/assets/765ef3a4-dda1-4732-87e2-5d6ceb6420f3)
 
 1. Download the entire folder
 2. From the demo folder, open the index file index.html
