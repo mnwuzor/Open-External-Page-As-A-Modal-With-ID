@@ -1,10 +1,5 @@
 # Open External Page As A Modal With ID
- Open External Page As A Modal With ID
-
-
-# Custom-Input-Mask
-
-With this script you can create your own unique custom input mask. To do that simply:
+ This is a tutorial on how to open an external page within a modal with corresponding ID of the row record
 
 1. Download the entire folder
 2. From the demo folder, open the index file index.html
