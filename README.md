@@ -32,6 +32,9 @@ To see this in action, kindly watch this YouTube video
 
 [![Open External Page As A Modal With ID](https://img.youtube.com/vi/3tAXA2Bc2zU/0.jpg)](https://www.youtube.com/watch?v=3tAXA2Bc2zU)
 
-
+# Installation
+To install the application in your WAMPServer or XAMP, follow the steps below:
+1. Download, unzip and dump the folder in the root folder of your WAMPServer or XAMP. I use WAMPServer. So dump it in the **www** folder. For XAMP, I believe teh root folder is **htdocs**.
+![image](https://github.com/user-attachments/assets/b56ac26b-56f2-464b-bf10-3d0e998df456)
 
 Enjoy!!!
