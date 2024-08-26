@@ -1,6 +1,10 @@
 # Open External Page As A Modal With ID
  This is a tutorial on how to open an external page within a modal with corresponding ID of the row record
 
+![image](https://github.com/user-attachments/assets/b0ea80ec-2ff4-487b-bc3c-be3c4b45b41a)
+
+The image above shows the table with rows of records. On the right is the button, when clicked will show **View Participants**. Now when you click on the **View Participants** it will load the pooup modal as seen below.
+
 1. Download the entire folder
 2. From the demo folder, open the index file index.html
 3. Locate this 2 lines of code ```$.mask.definitions['h'] = "[A-Za-z0-9 ]";```	and ```$("#custominput").mask("ABC/aah/999/2029",{ autoclear: false });```
