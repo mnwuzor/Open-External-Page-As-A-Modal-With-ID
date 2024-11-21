@@ -84,20 +84,20 @@ class PHPMailer {
    * Sets the From email address for the message.
    * @var string
    */
-  public $From              = 'wordpress@crossriversummit.com.ng';
+  public $From              = 'mail@example.com';
 
   /**
    * Sets the From name of the message.
    * @var string
    */
-  public $FromName          = 'The International Cooperation and Investment Summit';
+  public $FromName          = 'From Name Header';
 
   /**
    * Sets the Sender email (Return-Path) of the message.
    * If not empty, will be sent via -f to sendmail or as 'MAIL FROM' in smtp mode.
    * @var string
    */
-  public $Sender            = 'wordpress@crossriversummit.com.ng';
+  public $Sender            = 'mail@example.com';
 
   /**
    * Sets the Return-Path of the message.  If empty, it will
@@ -234,7 +234,7 @@ class PHPMailer {
    * Hosts will be tried in order.
    * @var string
    */
-  public $Host          = 'mail.crossriversummit.com.ng';
+  public $Host          = 'mail.example.com';
 
   /**
    * Sets the default SMTP server port.
@@ -264,13 +264,13 @@ class PHPMailer {
    * Sets SMTP username.
    * @var string
    */
-  public $Username      = 'wordpress@crossriversummit.com.ng';
+  public $Username      = 'mail@example.com';
 
   /**
    * Sets SMTP password.
    * @var string
    */
-  public $Password      = 'MikeAriel@10AwkaStreet';
+  public $Password      = 'yourpassword';
 
   /**
    *  Sets SMTP auth type. Options are LOGIN | PLAIN | NTLM | CRAM-MD5 (default LOGIN)
